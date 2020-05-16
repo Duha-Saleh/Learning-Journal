@@ -1,4 +1,7 @@
 ## Welcome to  this Journey 
+* this is nice chanege
+* yes it is
+> programming is good
 
 **I Am Duha**
 
@@ -9,3 +12,4 @@
 
 1. type 1
 1. type 2
+
